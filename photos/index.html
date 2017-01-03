@@ -1,0 +1,132 @@
+---
+layout: default
+title: Photos
+css: w3_truncated
+---
+
+<!DOCTYPE html>
+<html>
+<title>Photos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style>
+<body>
+
+<h2>Canadian Arctic Archipelago</h2>
+
+<div class="w3-content w3-display-container" style="max-width:800px">
+  <img class="mySlides" src="arctic/1.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/2.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/3.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/4.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/5.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/6.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/7.JPG" style="width:100%">
+  <img class="mySlides" src="arctic/8.JPG" style="width:100%">
+  <div class="w3-center w3-section w3-large w3-text-white w3-display-topmiddle" style="width:100%">
+    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(7)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(8)"></span>
+  </div>
+</div>
+
+<h2>McMurdo Sound, Antarctica</h2>
+
+<div class="w3-content w3-display-container" style="max-width:800px">
+  <img class="mySlides2" src="antarctic/1.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/2.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/3.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/4.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/5.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/6.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/7.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/8.JPG" style="width:100%">
+  <img class="mySlides2" src="antarctic/9.png" style="width:100%">
+  <div class="w3-center w3-section w3-large w3-text-white w3-display-topmiddle" style="width:100%">
+    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs2(-1)">&#10094;</div>
+    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs2(1)">&#10095;</div>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(1)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(2)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(3)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(4)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(5)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(6)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(7)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(8)"></span>
+    <span class="w3-badge demo2 w3-border w3-transparent w3-hover-white" onclick="currentDiv2(9)"></span>
+  </div>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
+  x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-white";
+}
+
+
+<!-- Copy and paste of code above since I dont know how to do it properly  -->
+
+var slideIndex2 = 1;
+showDivs2(slideIndex2);
+
+function plusDivs2(n) {
+  showDivs2(slideIndex2 += n);
+}
+
+function currentDiv2(n) {
+  showDivs2(slideIndex2 = n);
+}
+
+function showDivs2(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides2");
+  var dots = document.getElementsByClassName("demo2");
+  if (n > x.length) {slideIndex2 = 1}    
+  if (n < 1) {slideIndex2 = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
+  x[slideIndex2-1].style.display = "block";  
+  dots[slideIndex2-1].className += " w3-white";
+}
+
+</script>
+
+</body>
+</html> 
+

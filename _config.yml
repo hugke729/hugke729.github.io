@@ -1,0 +1,19 @@
+title: Kenneth Hughes
+description: Physical Oceanographer
+author: Kenneth Hughes
+github: https://github.com/hugke729
+about: PhD candidate combining modelling with field observations to best understand the ocean
+
+urls:
+    - text: Publications
+      url: /publications/
+    - text: Photos
+      url: /photos/
+    - text: Presentations
+      url: /presentations/
+    - text: Blog
+      url: https://brushingupscience.wordpress.com
+
+url: "https://hugke729.github.io"
+baseurl: ""
+markdown: kramdown
