@@ -11,6 +11,8 @@ urls:
       url: /photos/
     - text: Presentations
       url: /presentations/
+    - text: CV
+      url: /docs/K%20Hughes%20CV.pdf
     - text: Blog
       url: https://brushingupscience.wordpress.com
 
