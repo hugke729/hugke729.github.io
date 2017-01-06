@@ -23,7 +23,7 @@ __Hughes, K. G.__, P. J. Langhorne and M. J. M. Williams (2013).
 *J. Glaciol.* 59, 938–948, doi:10.3189/2013JoG12J117
 
 Langhorne, P. J., __K. G. Hughes__, A. J. Gough and 10 others (2015).  
-[Observed platelet ice distributions in Antarctic sea ice: an index for ocean–ice shelf heat flux.](http://dx.doi.org/10.1002/2015GL064508)
+[Observed platelet ice distributions in Antarctic sea ice: an index for ocean–ice shelf heat flux.](http://dx.doi.org/10.1002/2015GL064508)  
 *Geophys. Res. Lett.* 42, 5442–5451, doi:10.1002/2015GL064508
 
 Leonard, G. H., S. M. Mager, A. G. Pauling, __K. G. Hughes__ and I. J. Smith (2014).  
