@@ -37,6 +37,7 @@ css: publications
 In *Proceedings of the 22nd IAHR International Symposium on Ice*, 743–750, doi:10.13140/RG.2.1.4390.3206
 
 ## Theses
+
 - Master’s Thesis:  
 [Propagation of an Ice Shelf Water Plume beneath Sea Ice in McMurdo Sound, Antarctica][mt]
 
