@@ -13,7 +13,7 @@ Large-scale volume and freshwater fluxes through the Canadian Arctic Archipelago
 
 The Archipelago has complex but fascinating oceanography. To start, it is a meeting ground for waters from the Pacific, Arctic, and Atlantic Oceans. These waters flow through the many channels demarcated by a hundred major islands. While doing so, they encounter rough topography, strong tidal currents, and variable sea ice.
 
-# Past Research
+## Past Research
 
 Sea ice in regions near an ice shelf may be thicker than otherwise expected due to supercooled water. Waters tens of millikelvin cooler than the freezing point are commonly observed flowing northward from beneath the Ross/McMurdo Ice Shelves. Within the supercooled plume are small frazil ice crystals. My MSc research considered the fate of these crystals: their growth rate while suspended, the distance they travelled before precipitating, the drag they induce after they consolidate, and their effect on interactions at the base of sea ice.
 
