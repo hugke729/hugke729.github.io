@@ -22,6 +22,6 @@ Sea ice in regions near an ice shelf may be thicker than otherwise expected due 
 *Supercooled water is produced as comparatively fresh water rises up beneath an ice shelf*
 
 In related projects, I have 
-- interpreted the occurrence of platelet ice around Antarctica from numerous published and unpublished studies
-- analysed anomalies in thermistor arrays as proxies for brine convection
-- developed models of the growth of ice within a borehole melted through an ice shelf
+* interpreted the occurrence of platelet ice around Antarctica from numerous published and unpublished studies
+* analysed anomalies in thermistor arrays as proxies for brine convection
+* developed models of the growth of ice within a borehole melted through an ice shelf
