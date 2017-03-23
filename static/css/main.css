@@ -6,7 +6,7 @@ body {
     background-color: #fff;
     font-size: 18px;
     line-height: 1.5em;
-    color: #666;
+    color: #333;
     font-weight: 300;
 }
 hr {
@@ -36,22 +36,23 @@ h1 {
 h2 {
     font-weight: normal;
     margin-bottom: 5px;
-    color: #666666;
+    color: #333;
 }
         
 h3 {
     font-weight: normal;
     margin-bottom: 5px;
-    color: #666666;
+    color: #333;
 }
 
 a, a:link, a:active {
     text-decoration: none;
-    color: #8C8C8C;
+    /* color: #8C8C8C; */
+    color: #000000;
 }
 
 a:hover {
-    color: #B3B3B3;
+    color: #333333;
     text-decoration: underline;
 }
 
@@ -102,7 +103,7 @@ footer {
     margin-top: 10px;
     margin-bottom: 3em;
     padding-top: 10px;
-    color: #C2C2C2;
+    color: #333;
     font-size: 11px;
     bottom: 0;
     padding-bottom: 10px;
