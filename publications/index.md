@@ -38,11 +38,11 @@ In *Proceedings of the 22nd IAHR International Symposium on Ice*, 743–750, doi
 
 ## Theses
 
-* [Propagation of an Ice Shelf Water Plume beneath Sea Ice in McMurdo Sound, Antarctica][mt]
-Master’s Thesis:  
+* [Propagation of an Ice Shelf Water Plume beneath Sea Ice in McMurdo Sound, Antarctica][mt]  
+Master’s Thesis
 
-* [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]
-Honours Dissertation:  
+* [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
+Honours Dissertation
 
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
