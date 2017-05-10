@@ -41,6 +41,9 @@ Snow and Ice Research Group Annual Workshop, February 2012, Twizel, NZ
 
 ## Poster
 
+* [Time-dependent hydraulic flow and enhanced mixing: Sill dynamics in the central Canadian Arctic Archipelago](/presentations/Munk-Centennial-Symposium.pdf)
+Munk Centennial Symposium, Scripps Institute of Oceanography, San Diego, CA
+
 * [Propagation of Ice Shelf Water beneath McMurdo Sound sea ice](https://www.researchgate.net/publication/281465763_Propagation_of_Ice_Shelf_Water_beneath_McMurdo_Sound_Sea_Ice)  
 Gordon Research Conference on Polar Marine Science, Ventura, CA
 
