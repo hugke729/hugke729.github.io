@@ -9,6 +9,9 @@ body {
     color: #000;
     font-weight: 300;
 }
+strong {
+    font-weight: 500
+}
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -50,6 +53,13 @@ h3 {
     font-weight: normal;
     margin-bottom: 5px;
     color: #333;
+}
+
+h4 {
+    /* color: #399afa; */
+    color: #0763df;
+    font-weight: 300;
+    margin-bottom: 30px;
 }
 
 a, a:link, a:active {

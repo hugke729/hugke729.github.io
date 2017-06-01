@@ -9,7 +9,8 @@ Large-scale volume and freshwater fluxes through the Canadian Arctic Archipelago
 
 {: style="text-align:center" }
 <img src="./channel_schematic.png" style="max-width: 550px">  
-*Many of the phenomena that play key roles in the Archipelago*
+
+#### Many of the phenomena that play key roles in the Archipelago
 
 The Archipelago has complex but fascinating oceanography. To start, it is a meeting ground for waters from the Pacific, Arctic, and Atlantic Oceans. These waters flow through the many channels demarcated by a hundred major islands. While doing so, they encounter rough topography, strong tidal currents, and variable sea ice.
 
@@ -19,7 +20,8 @@ Sea ice in regions near an ice shelf may be thicker than otherwise expected due 
 
 {: style="text-align:center" }
 <img src="./ice_shelf_schematic.png" style="max-width: 550px">  
-*Supercooled water is produced as comparatively fresh water rises up beneath an ice shelf*
+
+#### Supercooled water is produced as comparatively fresh water rises up beneath an ice shelf
 
 In related projects, I have 
 * interpreted the occurrence of platelet ice around Antarctica from numerous published and unpublished studies
