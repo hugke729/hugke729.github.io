@@ -13,3 +13,7 @@ ul {
 strong {
     font-weight: 500;
 }
+
+div.col-sm-8 {
+    width: 800px;
+}
