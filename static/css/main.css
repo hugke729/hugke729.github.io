@@ -3,7 +3,7 @@
  */
 body {
     font-family: "Source Sans Pro", Arial, sans-serif;
-    background-color: #fff;
+    background-color: #fcf7f4;
     font-size: 18px;
     line-height: 1.5em;
     color: #000;
@@ -22,7 +22,7 @@ hr {
 
 blockquote {
     color: #0673df;
-    background-color: #ebfdff;
+    background-color: #efeeff;
     font-weight: 500;
     border-left:5px solid #0673df;
 }
