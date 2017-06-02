@@ -13,6 +13,9 @@ Slides for each presentation are included in the links for reference but may be 
 
 ## Oral
 
+* [Sill dynamics in the central Canadian Arctic Archipelago](/presentations/cmos_2017.pdf)  
+Canadian Meteorological and Oceanographic Society Congress, June 2017, Toronto, ON
+
 * [Observing and simulating diapycnal mixing in the Canadian Arctic Archipelago](/presentations/agu.pdf)  
 American Geophysical Union Fall Meeting, December 2016, San Francisco, CA
 
