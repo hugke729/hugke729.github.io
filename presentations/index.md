@@ -7,10 +7,6 @@ css: publications
 
 ## Presentations
 
-<!-- I have presented at several conferences in New Zealand, Canada, and America. Each title below contains a link to the slides. Note that I aim to keep my slides simple and easy to comprehend with minimal text. -->
-
-Slides for each presentation are included in the links for reference but may be of limited use as I aim to keep my slides simple and easy to comprehend with minimal text.
-
 ## Oral
 
 * [Sill dynamics in the central Canadian Arctic Archipelago](/presentations/cmos_2017.pdf)  
