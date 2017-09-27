@@ -16,6 +16,8 @@ urls:
       url: /research/
     - text: Blog
       url: https://brushingupscience.wordpress.com
+    - text: Data
+      url: /data/
 
 url: "https://hugke729.github.io"
 baseurl: ""
