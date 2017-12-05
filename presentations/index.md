@@ -9,6 +9,9 @@ css: publications
 
 ## Oral
 
+* [Tidal flows, sill dynamics, and mixing in the Canadian Arctic Archipelago](https://drive.google.com/open?id=1C-yWgNBTe4aurIJ-brREy6NpEriTyGfW)  
+Physics of Oceans and Atmosphere seminar, December 2017, Oregon State University
+
 * [Sill dynamics in the central Canadian Arctic Archipelago](/presentations/cmos_2017.pdf)  
 Canadian Meteorological and Oceanographic Society Congress, June 2017, Toronto, ON
 
