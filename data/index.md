@@ -14,7 +14,7 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [Data link][anha_link]  
 [Secondary link][anha_link2]
 
-__Tidally modulated internal hydraulic flow and mixing over sills in the central Canadian Arctic Archipelago__  
+__Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago__  
 Please note that this dataset is associated with a paper not yet published  
 [Data link][obs_link]  
 [Secondary link][obs_link2]
