@@ -27,6 +27,10 @@ __Hughes, K. G.__, P. J. Langhorne and M. J. M. Williams (2013)
 Langhorne, P. J., __K. G. Hughes__, A. J. Gough and 10 others (2015)  
 *Geophys. Res. Lett.* 42, 5442–5451, doi:10.1002/2015GL064508
 
+* [Brine convection, temperature fluctuations and permeability in winter Antarctic land-fast sea ice][pr7]  
+Wongpan, P., __K.G. Hughes__, P. J. Langhorne, and I. J. Smith (2017)  
+*J. Geophys. Res.* doi:10.1002/2017JC012999
+
 * [Towards a process model for predicting potential anchor ice formation sites in coastal Antarctic waters][pr1]  
 Leonard, G. H., S. M. Mager, A. G. Pauling, __K. G. Hughes__ and I. J. Smith (2014)  
 *J. Spat. Sci.* 59, 297–312, doi:10.1080/14498596.2014.913271
@@ -52,6 +56,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr7]: http://dx.doi.org/doi:10.1002/2017JC012999
 [pr6]: http://dx.doi.org/10.1017/aog.2017.34
 [pr5]: http://dx.doi.org/10.1002/2016JC012235
 [pr4]: http://dx.doi.org/10.1002/2013JC009411
