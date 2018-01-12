@@ -13,7 +13,7 @@ css: publications
 
 * [Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago][pr5]  
 __Hughes K.G.__, J. M. Klymak, X. Hu, and P. G. Myers (2017)  
-*J. Geophys. Res.*, 122, doi:10.1002/2016JC012235
+*J. Geophys. Res.*, 122, 803–820, doi:10.1002/2016JC012235
 
 * [Extension of an Ice Shelf Water plume model beneath sea ice with application in McMurdo Sound, Antarctica][pr4]  
 __Hughes, K. G.__, P. J. Langhorne, G. H. Leonard, and C. L. Stevens (2014)  
