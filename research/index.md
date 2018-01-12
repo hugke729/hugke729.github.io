@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data, Kenneth Hughes
+title: Research, Kenneth Hughes
 ---
 ######  
 
