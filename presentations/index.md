@@ -44,22 +44,25 @@ Snow and Ice Research Group Annual Workshop, February 2012, Twizel, NZ
 
 ## Poster
 
+* [Tidal conversion and dissipation poleward of the critical latitude](/presentations/osm_poster.pdf)  
+Ocean Sciences Meeting, February 2018, Portland, OR
+
 * [Time-dependent hydraulic flow and enhanced mixing: Sill dynamics in the central Canadian Arctic Archipelago](/presentations/Munk-Centennial-Symposium.pdf)  
-Munk Centennial Symposium, Scripps Institute of Oceanography, San Diego, CA
+Munk Centennial Symposium, May 2017, Scripps Institute of Oceanography, San Diego, CA
 
 * [Propagation of Ice Shelf Water beneath McMurdo Sound sea ice](https://www.researchgate.net/publication/281465763_Propagation_of_Ice_Shelf_Water_beneath_McMurdo_Sound_Sea_Ice)  
-Gordon Research Conference on Polar Marine Science, Ventura, CA
+Gordon Research Conference on Polar Marine Science, March 2013, Ventura, CA
 
 ## Non-conference presentations
 
 * [Science Venture presentations](/presentations/science-venture.pdf)  
-Four presentations over four weeks to classes of 8–10 year olds, University of Victoria, BC
+Four presentations over four weeks to classes of 8–10 year olds, August 2016, University of Victoria, BC
 
 * [Improve your scientific figures](/presentations/scientific-figures.pdf)  
-Department seminar, University of Victoria, BC
+Department seminar, January 2015, University of Victoria, BC
 
 * [Drilling Holes in Antarctica](/presentations/field-series.pdf)  
-Informal presentation about field work in Antarctica, University of Victoria, BC
+Informal presentation about field work in Antarctica, November 2014, University of Victoria, BC
 {: reversed="reversed"}
 
 ## Awards
