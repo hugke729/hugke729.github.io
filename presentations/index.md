@@ -69,4 +69,3 @@ Informal presentation about field work in Antarctica, November 2014, University 
 * Best student presentation, Antarctica New Zealand, Annual Antarctic Conference
 
 * Best presentation, Department Student Workshop, University of Victoria
-
