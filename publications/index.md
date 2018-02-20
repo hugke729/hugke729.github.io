@@ -29,7 +29,7 @@ Langhorne, P. J., __K. G. Hughes__, A. J. Gough, and 10 others (2015)
 
 * [Brine convection, temperature fluctuations and permeability in winter Antarctic land-fast sea ice][pr7]  
 Wongpan, P., __K.G. Hughes__, P. J. Langhorne, and I. J. Smith (2018)  
-*J. Geophys. Res.* 123, doi:10.1002/2017JC012999
+*J. Geophys. Res.* 123, 216–230, doi:10.1002/2017JC012999
 
 * [Towards a process model for predicting potential anchor ice formation sites in coastal Antarctic waters][pr1]  
 Leonard, G. H., S. M. Mager, A. G. Pauling, __K. G. Hughes__, and I. J. Smith (2014)  
