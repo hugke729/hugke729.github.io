@@ -19,7 +19,7 @@ Please note that this dataset is associated with a paper not yet published
 [Data link][obs_link]  
 [Secondary link][obs_link2]
 
-__Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__
+__Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__  
 Please note that this dataset is associated with a paper not yet published  
 [Data link][subinertial_link]
 
