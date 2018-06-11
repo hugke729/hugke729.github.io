@@ -21,10 +21,13 @@ Please note that this dataset is associated with a paper not yet published
 
 __Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__  
 Please note that this dataset is associated with a paper not yet published  
-[Data link][subinertial_link]
+[Data link][subinertial_link]  
+[Secondary link][subinertial_link2]
+
 
 [anha_link]: http://web.uvic.ca/~hugke729/Hughes_2017_JGR_vol_122/
 [anha_link2]: https://drive.google.com/open?id=0BySUVZ0q8bZHUE1tQzAzWUxMMDA
 [obs_link]: http://web.uvic.ca/~hugke729/Hughes_2017_in_prep/
 [obs_link2]: https://drive.google.com/open?id=0BySUVZ0q8bZHbEhrVkdOOXZ0alU
 [subinertial_link]: https://drive.google.com/open?id=1QI3MU-Q8KISBZwfU_j1mCGPsdQU0167g
+[subinertial_link2]:  http://web.uvic.ca/~hugke729/subinertial_channel/
