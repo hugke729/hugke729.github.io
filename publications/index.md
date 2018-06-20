@@ -11,7 +11,7 @@ css: publications
 
 ## Peer-reviewed
 
-*[Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago][pr8]  
+* [Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago][pr8]  
 __Hughes, K. G.__, J. M. Klymak, W. J. Williams, and H. Melling (2018)  
 *J. Geophys. Res.*, doi:10.1029/2018JC013770
 
