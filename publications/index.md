@@ -11,8 +11,12 @@ css: publications
 
 ## Peer-reviewed
 
+*[Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago][pr8]  
+__Hughes, K. G.__, J. M. Klymak, W. J. Williams, and H. Melling (2018)  
+*J. Geophys. Res.*, doi:10.1029/2018JC013770
+
 * [Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago][pr5]  
-__Hughes K.G.__, J. M. Klymak, X. Hu, and P. G. Myers (2017)  
+__Hughes, K.G.__, J. M. Klymak, X. Hu, and P. G. Myers (2017)  
 *J. Geophys. Res.*, 122, 803–820, doi:10.1002/2016JC012235
 
 * [Extension of an Ice Shelf Water plume model beneath sea ice with application in McMurdo Sound, Antarctica][pr4]  
@@ -56,6 +60,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr8]: http://dx.doi.org/doi:10.1029/2018JC013770
 [pr7]: http://dx.doi.org/doi:10.1002/2017JC012999
 [pr6]: http://dx.doi.org/10.1017/aog.2017.34
 [pr5]: http://dx.doi.org/10.1002/2016JC012235
