@@ -5,10 +5,10 @@ layout: default
 
 # Kenneth Hughes, Physical Oceanographer
 
-> PhD candidate combining modelling with observations to best understand the ocean
+> Postdoctoral research scientist at Oregon State University
 
-I study in the physical oceanography [group][uvicpog] at the University of Victoria, BC, Canada. My PhD research looks at small-scale ocean processes in the Canadian Arctic Archipelago. Through a combination of shipboard observations and numerical modelling, I am quantifying and characterising the flow, mixing, and friction within the numerous channels of the Archipelago.
+My current and past research has spanned from the Antarctic, to the Arctic, and now the tropical Pacific. Despite this broad range of settings, I am interested in understanding the physics of smaller-scale processes that ultimately influence larger-scale processes. To achieve this, I combine numerical modelling with analysis of in situ observations.
 
 <img src="/photos/ken-arctic-wide.jpg" width="100%">
 
-[uvicpog]: http://web.uvic.ca/~jklymak
+[omg]: http://mixing.coas.oregonstate.edu/
