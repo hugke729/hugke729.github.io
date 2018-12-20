@@ -13,7 +13,7 @@ My current research looks to quantify and understand near-surface turbulence, wi
 {: style="text-align:center" }
 <img src="./surf_otter_hanging.jpg" style="max-width: 550px"> 
 
-#### The Surf Otter
+#### The Surf Otter about to be deployed with many of its sensors shown on the right
 
 ### Stratified tidal flows in the Canadian Arctic
 
