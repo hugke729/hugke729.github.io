@@ -31,15 +31,15 @@ css: w3_truncated
   <div class="w3-center w3-section w3-large w3-text-white w3-display-topmiddle" style="width:100%">
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(7)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(8)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(9)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(1)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(2)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(3)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(4)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(5)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(6)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(7)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(8)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv3(9)"></span>
   </div>
 </div>
 
@@ -128,13 +128,24 @@ function showDivs(n) {
 
 var slideIndex2 = 1;
 showDivs2(slideIndex2);
+  
+var slideIndex3 = 1;
+showDivs3(slideIndex3);
 
 function plusDivs2(n) {
   showDivs2(slideIndex2 += n);
 }
 
+function plusDivs3(n) {
+  showDivs3(slideIndex3 += n);
+}
+
 function currentDiv2(n) {
   showDivs2(slideIndex2 = n);
+}
+  
+function currentDiv3(n) {
+  showDivs3(slideIndex3 = n);
 }
 
 function showDivs2(n) {
@@ -151,6 +162,22 @@ function showDivs2(n) {
   }
   x[slideIndex2-1].style.display = "block";  
   dots[slideIndex2-1].className += " w3-white";
+}
+  
+function showDivs3(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides3");
+  var dots = document.getElementsByClassName("demo3");
+  if (n > x.length) {slideIndex3 = 1}    
+  if (n < 1) {slideIndex3 = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
+  x[slideIndex3-1].style.display = "block";  
+  dots[slideIndex3-1].className += " w3-white";
 }
 
 </script>
