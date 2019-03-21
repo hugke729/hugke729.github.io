@@ -20,7 +20,7 @@ __Tidally modulated internal hydraulic flow and energetics in the central Canadi
 [Secondary link][obs_link2]
 
 __Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__  
-*J. Phys. Oceanogr., doi:10.1175/JPO-D-18-0132.1 
+*J. Phys. Oceanogr., doi:10.1175/JPO-D-18-0132.1   
 [Data link][subinertial_link]  
 [Secondary link][subinertial_link2]
 
