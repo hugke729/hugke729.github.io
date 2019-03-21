@@ -11,6 +11,10 @@ css: publications
 
 ## Peer-reviewed
 
+* [Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude][pr9]  
+__Hughes, K. G.__ and J. M. Klymak (2019)  
+*J. Phys. Oceanogr.* doi:10.1175/JPO-D-18-0132.1
+
 * [Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago][pr8]  
 __Hughes, K. G.__, J. M. Klymak, W. J. Williams, and H. Melling (2018)  
 *J. Geophys. Res.*, 123, 5210–5229, doi:10.1029/2018JC013770
@@ -64,6 +68,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr9]: http://dx.doi.org/10.1175/JPO-D-18-0132.1
 [pr8]: http://dx.doi.org/doi:10.1029/2018JC013770
 [pr7]: http://dx.doi.org/doi:10.1002/2017JC012999
 [pr6]: http://dx.doi.org/10.1017/aog.2017.34
