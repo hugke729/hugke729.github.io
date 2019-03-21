@@ -10,7 +10,7 @@ css: publications
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
 __Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago__  
-*J. Geophys. Res.*, 122, doi:10.1002/2016JC012235   
+*J. Geophys. Res.*, doi:10.1002/2016JC012235   
 [Data link][anha_link]  
 [Secondary link][anha_link2]
 
@@ -20,7 +20,7 @@ __Tidally modulated internal hydraulic flow and energetics in the central Canadi
 [Secondary link][obs_link2]
 
 __Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__  
-Please note that this dataset is associated with a paper not yet published  
+*J. Phys. Oceanogr., doi:10.1175/JPO-D-18-0132.1 
 [Data link][subinertial_link]  
 [Secondary link][subinertial_link2]
 
