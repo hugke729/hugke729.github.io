@@ -6,14 +6,12 @@ title: Research, Kenneth Hughes
 
 ## Current Research
 
-Improved understanding of diurnal changes in the heat content of the upper ocean is necessary for better predictions of storms and longer-term atmospheric variability such as monsoon cycles. This heat content is controlled by near-surface turbulence, which also regulates the transfer of momentum, buoyancy, and gases across the air–sea interface. It is challenging, however, to measure near-surface turbulence, especially in the top few metres. Surface waves introduce errors into measurements from a fixed platform, prop wash and ship wake can ruin measurements above 5 m, and long time series are necessary to account for intermittent wave breaking events.
-
-My current research looks to quantify and understand near-surface turbulence, with a particular focus on its diurnal evolution in the tropical ocean. This is enabled by the Surf Otter, a specially designed platform that follows the surface, floats outside of the ships wake, and is instrumented with numerous temperature, conductivity, velocity, and turbulence sensors.
+Improved understanding of diurnal changes in the vertical distribution of heat and momentum of the upper ocean is necessary for better predictions of sea surface temperature, storms, and longer-term atmospheric variability such as monsoon cycles. It is challenging, however, to measure near-surface velocities and turbulence. Surface waves introduce errors into measurements from a fixed platform, prop wash and ship wake can ruin measurements above 5 m, and long time series are necessary to account for intermittent wave breaking events. My current research looks to quantify and understand near-surface dynamics such as shear and turbulence, with a particular focus on its diurnal evolution in the tropical ocean. 
 
 {: style="text-align:center" }
-<img src="./surf_otter_hanging.jpg" style="max-width: 550px"> 
+<img src="./shear_rotation_schematic.png" style="max-width: 550px"> 
 
-#### The Surf Otter about to be deployed with many of its sensors shown on the right
+#### Variation of near-surface shear induced by a diurnal temperature gradient
 
 ### Stratified tidal flows in the Canadian Arctic
 
