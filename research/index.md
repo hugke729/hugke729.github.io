@@ -4,7 +4,7 @@ title: Research, Kenneth Hughes
 ---
 ######  
 
-## Current Research
+## Current Research: Turbulence and shear in diurnal warm layers
 
 Improved understanding of diurnal changes in the vertical distribution of heat and momentum of the upper ocean is necessary for better predictions of sea surface temperature, storms, and longer-term atmospheric variability such as monsoon cycles. It is challenging, however, to measure near-surface velocities and turbulence. Surface waves introduce errors into measurements from a fixed platform, prop wash and ship wake can ruin measurements above 5 m, and long time series are necessary to account for intermittent wave breaking events. My current research looks to quantify and understand near-surface dynamics such as shear and turbulence, with a particular focus on its diurnal evolution in the tropical ocean. 
 
