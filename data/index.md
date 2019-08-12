@@ -9,20 +9,25 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago__  
-*J. Geophys. Res.*, doi:10.1002/2016JC012235   
-[Data link][anha_link]  
-[Secondary link][anha_link2]
+__Evolution of the velocity structure in the diurnal warm layer (in prep)__  
+[Data link][dwl_shear_link1]
 
-__Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago__  
+__Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude (2019)__  
+*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-18-0132.1   
+[Data link][subinertial_link]  
+[Secondary link][subinertial_link2]
+
+
+__Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago (2018)__  
 *J. Geophys. Res.*, doi:10.1029/2018JC013770  
 [Data link][obs_link]  
 [Secondary link][obs_link2]
 
-__Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude__  
-*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-18-0132.1   
-[Data link][subinertial_link]  
-[Secondary link][subinertial_link2]
+
+__Water mass modification and mixing rates in a 1/12° simulation of the Canadian Arctic Archipelago (2017)__  
+*J. Geophys. Res.*, doi:10.1002/2016JC012235   
+[Data link][anha_link]  
+[Secondary link][anha_link2]
 
 
 [anha_link]: https://drive.google.com/drive/folders/1iKxwf8xNfUjXmlTmVYgVi6NElyvCAnY6?usp=sharing
@@ -30,5 +35,6 @@ __Tidal conversion and dissipation at steep topography in a channel poleward of 
 [obs_link]: https://drive.google.com/drive/folders/1Pu2VupntwQXywDMbuOmDSUGqNS5cRQ1a?usp=sharing
 [obs_link2]: https://drive.google.com/open?id=0BySUVZ0q8bZHbEhrVkdOOXZ0alU
 [subinertial_link]: https://drive.google.com/open?id=1QI3MU-Q8KISBZwfU_j1mCGPsdQU0167g
-[subinertial_link2]:  https://drive.google.com/drive/folders/10sfZzu8WTsMYflYrKlIIMqWf8XY_RW1F?usp=sharing
+[subinertial_link2]: https://drive.google.com/drive/folders/10sfZzu8WTsMYflYrKlIIMqWf8XY_RW1F?usp=sharing
+[dwl_shear_link1]: https://drive.google.com/open?id=1OxHp4w6esHfziWdjozTY-Iuag3UNdlOs
 
