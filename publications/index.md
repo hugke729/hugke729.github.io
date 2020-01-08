@@ -12,7 +12,7 @@ css: publications
 ## Peer-reviewed
 
 * [Evolution of the velocity structure in the diurnal warm layer][pr10]  
-__Hughes, K. G.J__, J. N. Moum, and E. L. Shroyer (2020)  
+__Hughes, K. G.__, J. N. Moum, and E. L. Shroyer (2020)  
 *J. Phys. Oceanogr.* doi:10.1175/JPO-D-19-0207.1
 
 * [Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude][pr9]  
