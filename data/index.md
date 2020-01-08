@@ -9,8 +9,10 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__Evolution of the velocity structure in the diurnal warm layer (in prep)__  
-[Data link][dwl_shear_link1]
+__Evolution of the velocity structure in the diurnal warm layer (2020)__  
+*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-19-0207.1  
+[Data link][dwl_shear_link1]  
+[Secondary link][dwl_shear_link2]
 
 __Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude (2019)__  
 *J. Phys. Oceanogr.*, doi:10.1175/JPO-D-18-0132.1   
@@ -37,4 +39,5 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [subinertial_link]: https://drive.google.com/open?id=1QI3MU-Q8KISBZwfU_j1mCGPsdQU0167g
 [subinertial_link2]: https://drive.google.com/drive/folders/10sfZzu8WTsMYflYrKlIIMqWf8XY_RW1F?usp=sharing
 [dwl_shear_link1]: https://drive.google.com/open?id=1OxHp4w6esHfziWdjozTY-Iuag3UNdlOs
+[dwl_shear_link2]: https://drive.google.com/open?id=1wiFHc-7G0WN9Q2SO9ihSmAG7zCMFFpJJ
 
