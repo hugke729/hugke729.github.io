@@ -44,6 +44,9 @@ Snow and Ice Research Group Annual Workshop, February 2012, Twizel, NZ
 
 ## Poster
 
+* [Turbulence, transport, and heat fluxes in diurnal warm layers](/presentations/osm2020_poster.pdf)  
+Ocean Sciences Meeting, February 2020, San Diego, CA
+
 * [Tidal conversion and dissipation poleward of the critical latitude](/presentations/osm_poster.pdf)  
 Ocean Sciences Meeting, February 2018, Portland, OR
 
