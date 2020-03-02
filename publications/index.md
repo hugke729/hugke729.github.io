@@ -13,11 +13,11 @@ css: publications
 
 * [Evolution of the velocity structure in the diurnal warm layer][pr10]  
 __Hughes, K. G.__, J. N. Moum, and E. L. Shroyer (2020)  
-*J. Phys. Oceanogr.* doi:10.1175/JPO-D-19-0207.1
+*J. Phys. Oceanogr.*, 50, 615–631, doi:10.1175/JPO-D-19-0207.1
 
 * [Tidal conversion and dissipation at steep topography in a channel poleward of the critical latitude][pr9]  
 __Hughes, K. G.__ and J. M. Klymak (2019)  
-*J. Phys. Oceanogr.* 49, 1269–1291, doi:10.1175/JPO-D-18-0132.1
+*J. Phys. Oceanogr.*, 49, 1269–1291, doi:10.1175/JPO-D-18-0132.1
 
 * [Tidally modulated internal hydraulic flow and energetics in the central Canadian Arctic Archipelago][pr8]  
 __Hughes, K. G.__, J. M. Klymak, W. J. Williams, and H. Melling (2018)  
@@ -29,27 +29,27 @@ __Hughes, K.G.__, J. M. Klymak, X. Hu, and P. G. Myers (2017)
 
 * [Extension of an Ice Shelf Water plume model beneath sea ice with application in McMurdo Sound, Antarctica][pr4]  
 __Hughes, K. G.__, P. J. Langhorne, G. H. Leonard, and C. L. Stevens (2014)  
-*J. Geophys. Res.* 119, 8662–8687, doi:10.1002/2013JC009411
+*J. Geophys. Res.*, 119, 8662–8687, doi:10.1002/2013JC009411
 
 * [Estimates of the refreezing rate in an ice-shelf borehole][pr3]  
 __Hughes, K. G.__, P. J. Langhorne, and M. J. M. Williams (2013)  
-*J. Glaciol.* 59, 938–948, doi:10.3189/2013JoG12J117
+*J. Glaciol.*, 59, 938–948, doi:10.3189/2013JoG12J117
 
 * [Observed platelet ice distributions in Antarctic sea ice: an index for ocean–ice shelf heat flux][pr2]  
 Langhorne, P. J., __K. G. Hughes__, A. J. Gough, and 10 others (2015)  
-*Geophys. Res. Lett.* 42, 5442–5451, doi:10.1002/2015GL064508
+*Geophys. Res. Lett.*, 42, 5442–5451, doi:10.1002/2015GL064508
 
 * [Brine convection, temperature fluctuations and permeability in winter Antarctic land-fast sea ice][pr7]  
 Wongpan, P., __K.G. Hughes__, P. J. Langhorne, and I. J. Smith (2018)  
-*J. Geophys. Res.* 123, 216–230, doi:10.1002/2017JC012999
+*J. Geophys. Res.*, 123, 216–230, doi:10.1002/2017JC012999
 
 * [Towards a process model for predicting potential anchor ice formation sites in coastal Antarctic waters][pr1]  
 Leonard, G. H., S. M. Mager, A. G. Pauling, __K. G. Hughes__, and I. J. Smith (2014)  
-*J. Spat. Sci.* 59, 297–312, doi:10.1080/14498596.2014.913271
+*J. Spat. Sci.*, 59, 297–312, doi:10.1080/14498596.2014.913271
 
 * [Measurements of Ice Shelf Water beneath the front of the Ross Ice Shelf using gliders][pr6]  
 Nelson, M. J. S., B. Y. Queste, I. J. Smith, G. H. Leonard, B. G. M. Webber, and __K. G. Hughes__ (2017)  
-*Ann. Glaciol.* 58, 41–50, doi:10.1017/aog.2017.34
+*Ann. Glaciol.*, 58, 41–50, doi:10.1017/aog.2017.34
 
 ## Conference proceedings
 
