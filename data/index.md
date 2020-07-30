@@ -9,7 +9,8 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__Heat transport through diurnal warm layers (submitted)__  
+__Heat transport through diurnal warm layers (2020)__  
+*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0079.1  
 [Data link][heat_flux_link1]  
 [Secondary link][heat_flux_link2]
 
