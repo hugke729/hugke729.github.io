@@ -13,7 +13,7 @@ css: publications
 
 * [Heat transport through diurnal warm layers][pr11]  
 __Hughes, K. G.__, J. N. Moum, and E. L. Shroyer (2020)  
-*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0079.1
+*J. Phys. Oceanogr.*, 50, 2885–2905, doi:10.1175/JPO-D-20-0079.1
 
 * [Evolution of the velocity structure in the diurnal warm layer][pr10]  
 __Hughes, K. G.__, J. N. Moum, and E. L. Shroyer (2020)  
@@ -76,7 +76,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
-[pr11]: https://journals.ametsoc.org/jpo/article/doi/10.1175/JPO-D-20-0079.1/353739/Heat-transport-through-diurnal-warm-layers
+[pr11]: https://doi.org/10.1175/JPO-D-20-0079.1
 [pr10]: http://dx.doi.org/10.1175/JPO-D-19-0207.1
 [pr9]: http://dx.doi.org/10.1175/JPO-D-18-0132.1
 [pr8]: http://dx.doi.org/doi:10.1029/2018JC013770
