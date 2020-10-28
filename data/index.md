@@ -11,6 +11,7 @@ This page includes links to datasets associated with some papers I have publishe
 
 __Stratified shear instabilities in diurnal warm layers (in prep.)__  
 [Data link][instability_link1]  
+[Secondary link][instability_link2]
 
 __Heat transport through diurnal warm layers (2020)__  
 *J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0079.1  
@@ -50,5 +51,6 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [dwl_shear_link2]: https://drive.google.com/open?id=1wiFHc-7G0WN9Q2SO9ihSmAG7zCMFFpJJ
 [heat_flux_link1]: http://dx.doi.org/10.5281/zenodo.3894910
 [heat_flux_link2]: https://drive.google.com/drive/folders/1KdgSu0YsQHJkdo2nPFX86lGl_MgmGAI5?usp=sharing
-[instability_link1]: https://drive.google.com/drive/folders/1mvlUOksvsgJ_m0H2FY8IXJrPuzbeBkBP?usp=sharing
+[instability_link1]: https://doi.org/10.5281/zenodo.4148765
+[instability_link2]: https://drive.google.com/drive/folders/1mvlUOksvsgJ_m0H2FY8IXJrPuzbeBkBP?usp=sharing
 
