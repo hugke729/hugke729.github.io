@@ -51,6 +51,6 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [dwl_shear_link2]: https://drive.google.com/open?id=1wiFHc-7G0WN9Q2SO9ihSmAG7zCMFFpJJ
 [heat_flux_link1]: http://dx.doi.org/10.5281/zenodo.3894910
 [heat_flux_link2]: https://drive.google.com/drive/folders/1KdgSu0YsQHJkdo2nPFX86lGl_MgmGAI5?usp=sharing
-[instability_link1]: https://doi.org/10.5281/zenodo.4148765
+[instability_link1]: https://doi.org/10.5281/zenodo.4149864
 [instability_link2]: https://drive.google.com/drive/folders/1mvlUOksvsgJ_m0H2FY8IXJrPuzbeBkBP?usp=sharing
 
