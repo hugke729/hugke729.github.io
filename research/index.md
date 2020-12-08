@@ -20,7 +20,9 @@ Improved understanding of diurnal changes in the vertical distribution of heat a
 At the head of many glacial fjords in Greenland is a mélange, a stiff matrix of icebergs and sea ice. Whether remotely forced ocean currents go under or around the icebergs is unclear, as is the role of currents generated locally by melting. I am addressing such questions using small-scale, three-dimensional modelling of the flow through a collection of thermodynamically active icebergs. The problem presents a large parameter space include the size, depth, and packing density of icebergs, the strength of stratification, and the incoming flow speeds.
 
 {: style="text-align:center" }
-<img src="./melange_schematic.png" style="max-width: 550px"> 
+<img src="./melange_schematic.png" style="max-width: 650px"> 
+
+#### An example of simulated flow through a densely packed mélange
 
 ## Past projects
 
@@ -30,6 +32,7 @@ Large-scale volume and freshwater fluxes through the Canadian Arctic Archipelago
 
 {: style="text-align:center" }
 <img src="./channel_schematic.png" style="max-width: 550px">  
+
 
 #### Many of the phenomena that play key roles in the Archipelago
 
