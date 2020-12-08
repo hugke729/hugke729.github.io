@@ -4,7 +4,9 @@ title: Research, Kenneth Hughes
 ---
 ######  
 
-## Current Research: Turbulence and shear in diurnal warm layers
+## Current Research: 
+
+### Turbulence and shear in diurnal warm layers
 
 Improved understanding of diurnal changes in the vertical distribution of heat and momentum of the upper ocean is necessary for better predictions of sea surface temperature, storms, and longer-term atmospheric variability such as monsoon cycles. It is challenging, however, to measure near-surface velocities and turbulence. Surface waves introduce errors into measurements from a fixed platform, prop wash and ship wake can ruin measurements above 5 m, and long time series are necessary to account for intermittent wave breaking events. My current research looks to quantify and understand near-surface dynamics such as shear and turbulence, with a particular focus on its diurnal evolution in the tropical ocean. 
 
@@ -12,6 +14,12 @@ Improved understanding of diurnal changes in the vertical distribution of heat a
 <img src="./shear_rotation_schematic.png" style="max-width: 550px"> 
 
 #### Variation of near-surface shear induced by a diurnal temperature gradient
+
+### Oceanic flow in glacial fjords
+
+At the head of many glacial fjords in Greenland is a mélange, a stiff matrix of icebergs and sea ice. Whether remotely forced ocean currents go under or around the icebergs is unclear, as is the role of currents generated locally by melting. I am addressing such questions using small-scale, three-dimensional modelling of the flow through a collection of thermodynamically active icebergs. The problem presents a large parameter space include the size, depth, and packing density of icebergs, the strength of stratification, and the incoming flow speeds.
+
+## Past projects
 
 ### Stratified tidal flows in the Canadian Arctic
 
