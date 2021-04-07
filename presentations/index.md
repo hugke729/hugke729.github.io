@@ -12,7 +12,7 @@ css: publications
 * [Dynamics of diurnal warm layers](/presentations/poa_2020_compressed.pdf)  
 Physics of Oceans and Atmosphere seminar, April 2020, Oregon State University
 
-* [Diurnal warm layers: shear and heat fluxes vs wind speed](/presentations/Hughes_PISTON_Fort_Collins.pdf) 
+* [Diurnal warm layers: shear and heat fluxes vs wind speed](/presentations/Hughes_PISTON_Fort_Collins.pdf)  
 2019 PISTON team meeting, November 2019, Colorado State University
 
 * [Tidal flows, sill dynamics, and mixing in the Canadian Arctic Archipelago](https://drive.google.com/open?id=1C-yWgNBTe4aurIJ-brREy6NpEriTyGfW)  
