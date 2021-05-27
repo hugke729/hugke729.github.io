@@ -9,7 +9,8 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__Stratified shear instabilities in diurnal warm layers (in prep.)__  
+__Stratified shear instabilities in diurnal warm layers (2021)__  
+*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0300.1  
 [Data link][instability_link1]  
 [Secondary link][instability_link2]
 
