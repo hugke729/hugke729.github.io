@@ -13,7 +13,7 @@ css: publications
 
 * [Stratified shear instabilities in diurnal warm layers][pr12]  
 __Hughes, K. G.__, J. N. Moum, E. L. Shroyer, and W. D. Smyth (2021)  
-*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0300.1
+*J. Phys. Oceanogr.*, 51, 2583–2598, doi:10.1175/JPO-D-20-0300.1
 
 * [Heat transport through diurnal warm layers][pr11]  
 __Hughes, K. G.__, J. N. Moum, and E. L. Shroyer (2020)  
