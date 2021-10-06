@@ -9,6 +9,10 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
+__An ocean turbulence data reduction scheme for autonomous, vertically profiling floats (in prep.)__  
+*J. Atmos. Oceanic Tech.*  
+[Data link][fcs_reduction_link1]
+
 __Stratified shear instabilities in diurnal warm layers (2021)__  
 *J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0300.1  
 [Data link][instability_link1]  
@@ -54,4 +58,5 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [heat_flux_link2]: https://drive.google.com/drive/folders/1KdgSu0YsQHJkdo2nPFX86lGl_MgmGAI5?usp=sharing
 [instability_link1]: https://doi.org/10.5281/zenodo.4306931
 [instability_link2]: https://drive.google.com/drive/folders/1mvlUOksvsgJ_m0H2FY8IXJrPuzbeBkBP?usp=sharing
+[fcs_reduction_link1]: https://zenodo.org/record/5553001
 
