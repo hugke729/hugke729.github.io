@@ -11,7 +11,9 @@ This page includes links to datasets associated with some papers I have publishe
 
 __An ocean turbulence data reduction scheme for autonomous, vertically profiling floats (in prep.)__  
 *J. Atmos. Oceanic Tech.*  
-[Data link][fcs_reduction_link1]
+[Data link][fcs_reduction_link1]  
+[Secondary link][fcs_reduction_link2]  
+
 
 __Stratified shear instabilities in diurnal warm layers (2021)__  
 *J. Phys. Oceanogr.*, doi:10.1175/JPO-D-20-0300.1  
@@ -59,4 +61,5 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [instability_link1]: https://doi.org/10.5281/zenodo.4306931
 [instability_link2]: https://drive.google.com/drive/folders/1mvlUOksvsgJ_m0H2FY8IXJrPuzbeBkBP?usp=sharing
 [fcs_reduction_link1]: https://zenodo.org/record/5553001
+[fcs_reduction_link2]: https://drive.google.com/drive/folders/1vNO2hadFnWoxwTreRIWJ3fxYYKRH6bQB?usp=sharing
 
