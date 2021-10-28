@@ -17,7 +17,7 @@ __An ocean turbulence data reduction scheme for autonomous, vertically profiling
 __Pathways, form drag, and turbulence in a simulated ocean flowing through through an ice melange (in prep.)__  
 *J. Geophys. Res. Oceans*  
 [Data link][melange_link1]  
-[Secondary_link][melange_link2]
+[Secondary link][melange_link2]
 
 
 __Stratified shear instabilities in diurnal warm layers (2021)__  
