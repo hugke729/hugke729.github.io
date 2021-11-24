@@ -22,8 +22,7 @@ Large amounts of heat are mixed downward to colder, deeper waters in the equator
 {: style="text-align:center" }
 <img src="./cold_tongue_schematic.png" style="max-width: 650px"> 
 
-#### Strong shear between the westward surface current and the equatorial undercurrent creates a narrow region of intense downward turbulent transfer of heat.
-Simulated fluxes based on [Holmes et al. (2019)][H19].
+#### Strong shear between the westward surface current and the equatorial undercurrent creates a narrow region of intense downward turbulent transfer of heat. Simulated fluxes based on [Holmes et al. (2019)][H19].
 
 ### Automating turbulence profiling measurements
 
