@@ -9,6 +9,17 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
+## Submitted/In preparation
+
+* Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange  
+__Hughes, K. G.__ (submitted)  
+*J. Geophys. Res. Oceans*
+
+* An ocean turbulence data reduction scheme for autonomous, vertically profiling floats  
+__Hughes, K. G.__, J. N. Moum, E. L. Shroyer, and D. L. Rudnick  (in prep.)  
+*J. Atmos. Oceanic. Tech.*
+
+
 ## Peer-reviewed
 
 * [Stratified shear instabilities in diurnal warm layers][pr12]  
