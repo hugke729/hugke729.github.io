@@ -29,7 +29,7 @@ Large amounts of heat are mixed downward to colder, deeper waters in the equator
 Transmitting data such as temperature, pressure, conductivity, and position in real time is now commonplace with autonomous ocean profilers. Doing the same with raw turbulence measurements is not yet possible since data sampling rates are orders of magnitude too high. To address this issue, I am developing a scheme to reliably reduce turbulence data from a vertically profiling float. We plan to deploy autonomized turbulence profilers in experiments in 2023/2024.
 
 {: style="text-align:center" }
-<img src="./reduction_block_chart.png" style="max-width: 550px"> 
+<img src="./reduction_block_chart.png" style="max-width: 650px"> 
 
 #### An outline of the turbulence data reduction procedure.
 
