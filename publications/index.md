@@ -11,11 +11,11 @@ css: publications
 
 ## Submitted/In preparation
 
-* Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange  
+* __Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange__  
 __Hughes, K. G.__ (submitted)  
 *J. Geophys. Res. Oceans*
 
-* An ocean turbulence data reduction scheme for autonomous, vertically profiling floats  
+* __An ocean turbulence data reduction scheme for autonomous, vertically profiling floats__  
 __Hughes, K. G.__, J. N. Moum, E. L. Shroyer, and D. L. Rudnick  (in prep.)  
 *J. Atmos. Oceanic. Tech.*
 
