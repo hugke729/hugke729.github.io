@@ -9,12 +9,12 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__An ocean turbulence data reduction scheme for autonomous, vertically profiling floats (in prep.)__  
+__Turbulence data reduction scheme for vertically-profiling autonomous floats deployed in the ocean (submitted)__  
 *J. Atmos. Oceanic Tech.*  
 [Data link][fcs_reduction_link1]  
 [Secondary link][fcs_reduction_link2]  
 
-__Pathways, form drag, and turbulence in a simulated ocean flowing through through an ice melange (in prep.)__  
+__Pathways, form drag, and turbulence in a simulated ocean flowing through through an ice melange (submitted)__  
 *J. Geophys. Res. Oceans*  
 [Data link][melange_link1]  
 [Secondary link][melange_link2]
