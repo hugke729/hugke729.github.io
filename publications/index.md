@@ -15,7 +15,7 @@ css: publications
 __Hughes, K. G.__ (submitted)  
 *J. Geophys. Res. Oceans*
 
-* __Turbulence data reduction scheme for vertically-profiling autonomous floats deployed in the ocean__  
+* __Turbulence data reduction scheme for vertically profiling autonomous floats deployed in the ocean__  
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)  
 *J. Atmos. Oceanic. Tech.*
 
