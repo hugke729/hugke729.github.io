@@ -19,8 +19,11 @@ __Hughes, K. G.__ (submitted)
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)  
 *J. Atmos. Oceanic. Tech.*
 
-
 ## Peer-reviewed
+
+* [Deep cycle turbulence in Atlantic and Pacific cold tongues][pr13]  
+Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, D. Cherian, S. J. Warner, B. Bourlès. P. Brandt, and M. Dengler (2022)  
+*Geophys. Res. Lett.*, doi:10.1029/2021GL097345
 
 * [Stratified shear instabilities in diurnal warm layers][pr12]  
 __Hughes, K. G.__, J. N. Moum, E. L. Shroyer, and W. D. Smyth (2021)  
@@ -91,6 +94,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr13]: https://doi.org/10.1029/2021GL097345
 [pr12]: https://doi.org/10.1175/JPO-D-20-0300.1
 [pr11]: https://doi.org/10.1175/JPO-D-20-0079.1
 [pr10]: http://dx.doi.org/10.1175/JPO-D-19-0207.1
