@@ -23,7 +23,7 @@ __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)
 
 * [Deep cycle turbulence in Atlantic and Pacific cold tongues][pr13]  
 Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, D. Cherian, S. J. Warner, B. Bourlès. P. Brandt, and M. Dengler (2022)  
-*Geophys. Res. Lett.*, doi:10.1029/2021GL097345
+*Geophys. Res. Lett.*, 49, e2021GL097345, doi:10.1029/2021GL097345
 
 * [Stratified shear instabilities in diurnal warm layers][pr12]  
 __Hughes, K. G.__, J. N. Moum, E. L. Shroyer, and W. D. Smyth (2021)  
