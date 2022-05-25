@@ -9,17 +9,19 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
-## Submitted/In preparation
+## Under Review
 
-* __Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange__  
-__Hughes, K. G.__ (submitted)  
-*J. Geophys. Res. Oceans*
 
 * __Turbulence data reduction scheme for vertically profiling autonomous floats deployed in the ocean__  
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)  
 *J. Atmos. Oceanic. Tech.*
 
 ## Peer-reviewed
+
+
+* [Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange][pr14]  
+__Hughes, K. G.__ (2022)  
+*J. Geophys. Res. Oceans*, doi:10.1029/2021JC018228
 
 * [Deep cycle turbulence in Atlantic and Pacific cold tongues][pr13]  
 Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, D. Cherian, S. J. Warner, B. Bourlès. P. Brandt, and M. Dengler (2022)  
@@ -94,6 +96,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr14]: https://doi.org/10.1029/2021JC018228
 [pr13]: https://doi.org/10.1029/2021GL097345
 [pr12]: https://doi.org/10.1175/JPO-D-20-0300.1
 [pr11]: https://doi.org/10.1175/JPO-D-20-0079.1
