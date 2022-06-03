@@ -21,7 +21,7 @@ __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)
 
 * [Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange][pr14]  
 __Hughes, K. G.__ (2022)  
-*J. Geophys. Res. Oceans*, doi:10.1029/2021JC018228
+*J. Geophys. Res. Oceans*, 127, e2021JC018228, doi:10.1029/2021JC018228
 
 * [Deep cycle turbulence in Atlantic and Pacific cold tongues][pr13]  
 Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, D. Cherian, S. J. Warner, B. Bourlès. P. Brandt, and M. Dengler (2022)  
