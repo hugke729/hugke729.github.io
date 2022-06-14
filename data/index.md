@@ -14,8 +14,8 @@ __Turbulence data reduction scheme for vertically profiling autonomous floats de
 [Data link][fcs_reduction_link1]  
 [Secondary link][fcs_reduction_link2]  
 
-__Pathways, form drag, and turbulence in a simulated ocean flowing through through an ice melange (submitted)__  
-*J. Geophys. Res. Oceans*  
+__Pathways, form drag, and turbulence in a simulated ocean flowing through through an ice melange (2022)__  
+*J. Geophys. Res. Oceans*,  doi:10.1029/2021JC018228  
 [Data link][melange_link1]  
 [Secondary link][melange_link2]
 
