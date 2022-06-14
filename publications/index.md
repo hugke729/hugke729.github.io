@@ -12,7 +12,7 @@ css: publications
 ## Under Review
 
 
-* __Turbulence data reduction scheme for vertically profiling autonomous floats deployed in the ocean__  
+* __A turbulence data reduction scheme for autonomous and expendable profiling floats__  
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)  
 *J. Atmos. Oceanic. Tech.*
 
