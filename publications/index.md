@@ -14,7 +14,7 @@ css: publications
 
 * __A turbulence data reduction scheme for autonomous and expendable profiling floats__  
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (submitted.)  
-*J. Atmos. Oceanic. Tech.*
+*J. Atmos. Oceanic Tech.*
 
 ## Peer-reviewed
 
