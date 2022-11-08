@@ -57,7 +57,7 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [anha_link2]: https://drive.google.com/open?id=0BySUVZ0q8bZHUE1tQzAzWUxMMDA
 [obs_link]: https://drive.google.com/drive/folders/1Pu2VupntwQXywDMbuOmDSUGqNS5cRQ1a?usp=sharing
 [obs_link2]: https://drive.google.com/open?id=0BySUVZ0q8bZHbEhrVkdOOXZ0alU
-[subinertial_link]: https://drive.google.com/open?id=1QI3MU-Q8KISBZwfU_j1mCGPsdQU0167g
+[subinertial_link]: https://doi.org/10.5281/zenodo.7305417
 [subinertial_link2]: https://drive.google.com/drive/folders/10sfZzu8WTsMYflYrKlIIMqWf8XY_RW1F?usp=sharing
 [dwl_shear_link1]: https://drive.google.com/open?id=1OxHp4w6esHfziWdjozTY-Iuag3UNdlOs
 [dwl_shear_link2]: https://drive.google.com/open?id=1wiFHc-7G0WN9Q2SO9ihSmAG7zCMFFpJJ
