@@ -12,3 +12,4 @@ My current and past research has spanned from the Antarctic, to the Canadian Arc
 <img src="/photos/ocean.png" width="100%">
 
 [omg]: http://mixing.coas.oregonstate.edu/
+
