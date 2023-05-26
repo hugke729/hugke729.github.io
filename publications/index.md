@@ -11,8 +11,12 @@ css: publications
 
 ## Peer-reviewed
 
+* [Wind dependencies of deep cycle turbulence in the equatorial cold tongues][pr17]  
+Moum, J. N., W. D. Smyth, __K. G. Hughes__, D. Cherian, S. J. Warner, B. Bourlès, P. Brandt, and M. Dengler (2023)  
+*J. Phys. Oceanogr.*, doi: 10.1175/JPO-D-22-0203.1
+
 * [A turbulence data reduction scheme for autonomous and expendable profiling floats][pr15]  
-__Hughes, K. G.__, J. N. Moum, and D. L. Rudnick  (2023)  
+__Hughes, K. G.__, J. N. Moum, and D. L. Rudnick (2023)  
 *Ocean Sci.*, 19, 193–207, doi:10.5194/os-19-193-2023
 
 * [Flippin' χSOLO, an upper ocean autonomous turbulence profiling float][pr16]  
@@ -96,6 +100,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[pr17]: https://doi.org/10.1175/JPO-D-22-0203.1
 [pr16]: https://doi.org/10.1175/JTECH-D-22-0067.1
 [pr15]: https://doi.org/10.5194/os-19-193-2023
 [pr14]: https://doi.org/10.1029/2021JC018228
