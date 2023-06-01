@@ -21,7 +21,7 @@ __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick (2023)
 
 * [Flippin' χSOLO, an upper ocean autonomous turbulence profiling float][pr16]  
 Moum, J. N., D. L. Rudnick, E. L. Shroyer, __K. G. Hughes__, B. D. Reineman, K. Grindley, Jeffrey T. Sherman, P. Vutukur, C. Van Appledorn, K. Latham, A. J. Moulin, and T. M. S. Johnston (2023)  
-*J. Atmos. Oceanic Tech.* doi:10.1175/JTECH-D-22-0067.1
+*J. Atmos. Oceanic Tech.*, 40, 629–644, doi:10.1175/JTECH-D-22-0067.1
 
 * [Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange][pr14]  
 __Hughes, K. G.__ (2022)  
