@@ -13,7 +13,7 @@ css: publications
 
 * [Wind dependencies of deep cycle turbulence in the equatorial cold tongues][pr17]  
 Moum, J. N., W. D. Smyth, __K. G. Hughes__, D. Cherian, S. J. Warner, B. Bourlès, P. Brandt, and M. Dengler (2023)  
-*J. Phys. Oceanogr.*, doi:10.1175/JPO-D-22-0203.1
+*J. Phys. Oceanogr.*, 53, 1979–1995, doi:10.1175/JPO-D-22-0203.1
 
 * [Prolonged thermocline warming by near-inertial internal waves in the wakes of tropical cyclones][pr18]  
 Gutiérrez Brizuela, N., M. H. Alford, S.-P. Xie, J. Sprintall, G. Voet, S. J. Warner, __K. G. Hughes__, and J. N. Moum (2023)  
