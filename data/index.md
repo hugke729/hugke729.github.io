@@ -9,6 +9,9 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
+__Fjord circulation induced by melting icebergs (submitted)__  
+[Data link][melt_circ_link1]  
+
 __A turbulence data reduction scheme for autonomous and expendable profiling floats (2023)__  
 *Ocean Sci.* doi:10.5194/os-19-193-2023  
 [Data link][fcs_reduction_link1]  
@@ -69,4 +72,5 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [fcs_reduction_link2]: https://drive.google.com/drive/folders/1vNO2hadFnWoxwTreRIWJ3fxYYKRH6bQB?usp=sharing
 [melange_link1]: https://doi.org/10.5281/zenodo.5609245
 [melange_link2]: https://drive.google.com/drive/folders/1MnqN4WfcT6LPCtCzreX-GnUGqnmdF75S?usp=sharing
+[melt_circ_link1]: https://doi.org/10.5281/zenodo.8339482
 
