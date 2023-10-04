@@ -9,6 +9,12 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
+## Preprint
+
+* [Fjord circulation induced by melting icebergs][preprint-tc]  
+__Hughes, K. G.__ (2023)  
+*EGUsphere*, doi:10.5194/egusphere-2023-2106
+
 ## Peer-reviewed
 
 * [Wind dependencies of deep cycle turbulence in the equatorial cold tongues][pr17]  
@@ -104,6 +110,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[preprint-tc]: https://doi.org/10.5194/egusphere-2023-2106
 [pr18]: https://doi.org/10.1073/pnas.2301664120
 [pr17]: https://doi.org/10.1175/JPO-D-22-0203.1
 [pr16]: https://doi.org/10.1175/JTECH-D-22-0067.1
