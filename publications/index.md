@@ -18,19 +18,23 @@ __Hughes, K. G.__ (2023)
 ## Peer-reviewed
 
 * [Wind dependencies of deep cycle turbulence in the equatorial cold tongues][pr17]  
-Moum, J. N., W. D. Smyth, __K. G. Hughes__, D. Cherian, S. J. Warner, B. Bourlès, P. Brandt, and M. Dengler (2023)  
+Moum, J. N., W. D. Smyth, __K. G. Hughes__, D. Cherian, and four others (2023)  
 *J. Phys. Oceanogr.*, 53, 1979–1995, doi:10.1175/JPO-D-22-0203.1
 
-* [Prolonged thermocline warming by near-inertial internal waves in the wakes of tropical cyclones][pr18]  
-Gutiérrez Brizuela, N., M. H. Alford, S.-P. Xie, J. Sprintall, G. Voet, S. J. Warner, __K. G. Hughes__, and J. N. Moum (2023)  
+* [Prolonged thermocline warming by near-inertial internal waves in the wakes of tropical cyclones][pr18]   
+Gutiérrez Brizuela, N., M. H. Alford, S.-P. Xie, J. Sprintall, and four others including __K. G. Hughes__ (2023)  
 *Proc. Natl. Acad. Sci.*, 120, e2301664120, doi:10.1073/pnas.2301664120
 
 * [A turbulence data reduction scheme for autonomous and expendable profiling floats][pr15]  
 __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick (2023)  
 *Ocean Sci.*, 19, 193–207, doi:10.5194/os-19-193-2023
 
+* [Turbulent diapycnal fluxes as a pilot essential ocean variable][pr19]  
+Le Boyer, A., N. Couto, M. H. Alford, H. F. Drake and thirteen others including __K. G. Hughes__ (2023)  
+*Front. Mar. Sci.*, doi:10.3389/fmars.2023.1241023
+
 * [Flippin' χSOLO, an upper ocean autonomous turbulence profiling float][pr16]  
-Moum, J. N., D. L. Rudnick, E. L. Shroyer, __K. G. Hughes__, B. D. Reineman, K. Grindley, Jeffrey T. Sherman, P. Vutukur, C. Van Appledorn, K. Latham, A. J. Moulin, and T. M. S. Johnston (2023)  
+Moum, J. N., D. L. Rudnick, E. L. Shroyer, __K. G. Hughes__, and eight others (2023)  
 *J. Atmos. Oceanic Tech.*, 40, 629–644, doi:10.1175/JTECH-D-22-0067.1
 
 * [Pathways, form drag, and turbulence in simulations of an ocean flowing through an ice mélange][pr14]  
@@ -38,7 +42,7 @@ __Hughes, K. G.__ (2022)
 *J. Geophys. Res. Oceans*, 127, e2021JC018228, doi:10.1029/2021JC018228
 
 * [Deep cycle turbulence in Atlantic and Pacific cold tongues][pr13]  
-Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, D. Cherian, S. J. Warner, B. Bourlès. P. Brandt, and M. Dengler (2022)  
+Moum, J. N., __K. G. Hughes.__, E. L. Shroyer, W. D. Smyth, and five others (2022)  
 *Geophys. Res. Lett.*, 49, e2021GL097345, doi:10.1029/2021GL097345
 
 * [Stratified shear instabilities in diurnal warm layers][pr12]  
@@ -74,7 +78,7 @@ Nelson, M. J. S., B. Y. Queste, I. J. Smith, G. H. Leonard, B. G. M. Webber, and
 *Ann. Glaciol.*, 58, 41–50, doi:10.1017/aog.2017.34
 
 * [Observed platelet ice distributions in Antarctic sea ice: an index for ocean–ice shelf heat flux][pr2]  
-Langhorne, P. J., __K. G. Hughes__, A. J. Gough, and 10 others (2015)  
+Langhorne, P. J., __K. G. Hughes__, A. J. Gough, I. J. Smith, and nine others (2015)  
 *Geophys. Res. Lett.*, 42, 5442–5451, doi:10.1002/2015GL064508
 
 * [Extension of an Ice Shelf Water plume model beneath sea ice with application in McMurdo Sound, Antarctica][pr4]  
@@ -111,6 +115,7 @@ Honours Dissertation
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
 [preprint-tc]: https://doi.org/10.5194/egusphere-2023-2106
+[pr19]: https://doi.org/10.3389/fmars.2023.1241023
 [pr18]: https://doi.org/10.1073/pnas.2301664120
 [pr17]: https://doi.org/10.1175/JPO-D-22-0203.1
 [pr16]: https://doi.org/10.1175/JTECH-D-22-0067.1
