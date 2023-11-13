@@ -15,6 +15,10 @@ css: publications
 __Hughes, K. G.__ (2023)  
 *EGUsphere*, doi:10.5194/egusphere-2023-2106
 
+* [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][bobbys-preprint]  
+Sanchez, R. M., F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2023)  
+Submitted to *J. Geophys. Res. Oceans*, doi:10.22541/au.169945435.51252504/v1
+
 ## Peer-reviewed
 
 * [Wind dependencies of deep cycle turbulence in the equatorial cold tongues][pr17]  
@@ -114,6 +118,7 @@ Honours Dissertation
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
+[bobbys-preprint]: https://doi.org/10.22541/au.169945435.51252504/v1
 [preprint-tc]: https://doi.org/10.5194/egusphere-2023-2106
 [pr19]: https://doi.org/10.3389/fmars.2023.1241023
 [pr18]: https://doi.org/10.1073/pnas.2301664120
