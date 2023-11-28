@@ -35,7 +35,7 @@ __Hughes, K. G.__, J. N. Moum, and D. L. Rudnick (2023)
 
 * [Turbulent diapycnal fluxes as a pilot essential ocean variable][pr19]  
 Le Boyer, A., N. Couto, M. H. Alford, H. F. Drake and thirteen others including __K. G. Hughes__ (2023)  
-*Front. Mar. Sci.*, doi:10.3389/fmars.2023.1241023
+*Front. Mar. Sci.*, 10, 1241023, doi:10.3389/fmars.2023.1241023
 
 * [Flippin' χSOLO, an upper ocean autonomous turbulence profiling float][pr16]  
 Moum, J. N., D. L. Rudnick, E. L. Shroyer, __K. G. Hughes__, and eight others (2023)  
