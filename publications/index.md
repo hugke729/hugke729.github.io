@@ -99,6 +99,10 @@ __Hughes, K. G.__, P. J. Langhorne, and M. J. M. Williams (2013)
 
 ## Conference proceedings
 
+* [Different approaches to onboard reduction of turbulence data: pros and cons][cp2]  
+__Hughes, K. G.__ and J. N. Moum (2023)  
+In *Microstructure sensing from autonomous platforms*, 6-7
+
 * [Crystal orientation in ice frozen from fresh and brackish water][cp1]  
 Grothe, S., __K. G. Hughes__, and P. J. Langhorne (2014)  
 In *Proceedings of the 22nd IAHR International Symposium on Ice*, 743–750, doi:10.13140/RG.2.1.4390.3206
@@ -139,6 +143,7 @@ Honours Dissertation
 [pr3]: http://dx.doi.org/10.3189/2013JoG12J117
 [pr2]: http://dx.doi.org/10.1002/2015GL064508
 [pr1]: http://dx.doi.org/10.1080/14498596.2014.913271
+[cp2]: https://geo-prose.com/pdfs/microstructure-sensing.pdf#page=12
 [cp1]: http://dx.doi.org/10.13140/RG.2.1.4390.3206
 [mt]: http://hdl.handle.net/10523/4325
 [ht]: /docs/Ken%20Hughes%20Honours%20Dissertation.pdf
