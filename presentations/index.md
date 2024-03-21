@@ -9,6 +9,9 @@ css: publications
 
 ## Oral
 
+* [Fjord circulation induced by iceberg melt](/presentations/)  
+Ocean Sciences Meeting, February 2024, New Orleans
+
 * [Dynamics of diurnal warm layers](/presentations/poa_2020_compressed.pdf)  
 Physics of Oceans and Atmosphere seminar, April 2020, Oregon State University
 
