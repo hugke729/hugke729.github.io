@@ -12,7 +12,7 @@ css: publications
 ## Peer-reviewed
 
 * [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][pr21]  
-Sanchez, R. M., F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2023)  
+Sanchez, R. M., F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2024)  
 *J. Geophys. Res. Oceans*, 129, e2023JC020492, doi:10.1029/2023JC020492
 
 * [Fjord circulation induced by melting icebergs][pr20]  
