@@ -9,13 +9,11 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
-## Preprint
-
-* [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][bobbys-preprint]  
-Sanchez, R. M., F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2023)  
-Submitted to *J. Geophys. Res. Oceans*, doi:10.22541/au.169945435.51252504/v1
-
 ## Peer-reviewed
+
+* [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][pr21]  
+Sanchez, R. M., F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2023)  
+*J. Geophys. Res. Oceans*, 129, e2023JC020492, doi:10.1029/2023JC020492
 
 * [Fjord circulation induced by melting icebergs][pr20]  
 __Hughes, K. G.__ (2024)  
@@ -123,6 +121,7 @@ Honours Dissertation
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
 [gs]: https://scholar.google.ca/citations?hl=en&user=hi2Jk_0AAAAJ&view_op=list_works&gmla=AJsN-F4Zdrx9Pf-PPqjz6hrH-DheV_vXiMWX3S7tEtSkmvBg_8eGJ2SgiEqMtRP6Mb6ypgid5nG3qMSTEawch62wteDpnvaeOO0VaHGLMWMILMeUpYThUhuF9rPxErjMWzQge1QX58hN
 [bobbys-preprint]: https://doi.org/10.22541/au.169945435.51252504/v1
+[pr21]: https://doi.org/10.1029/2023JC020492
 [pr20]: https://doi.org/10.5194/tc-18-1315-2024
 [pr19]: https://doi.org/10.3389/fmars.2023.1241023
 [pr18]: https://doi.org/10.1073/pnas.2301664120
