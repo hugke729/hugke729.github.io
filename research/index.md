@@ -4,7 +4,7 @@ title: Research, Kenneth Hughes
 ---
 ######  
 
-## Current and Past Research Projects: 
+## Current and Past Research Projects  
 
 ### Oceanic flow in glacial fjords
 
