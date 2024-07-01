@@ -4,7 +4,7 @@ title: Research, Kenneth Hughes
 ---
 ######  
 
-## Current Research: 
+## Current and Past Research Projects: 
 
 ### Oceanic flow in glacial fjords
 
@@ -41,9 +41,6 @@ Improved understanding of diurnal changes in the vertical distribution of heat a
 <img src="./shear_rotation_schematic.png" style="max-width: 550px"> 
 
 #### Variation of near-surface shear induced by a diurnal temperature gradient.
-
-
-## Past projects
 
 ### Stratified tidal flows in the Canadian Arctic
 
