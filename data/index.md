@@ -9,7 +9,8 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
-__Fjord circulation induced by melting icebergs (submitted)__  
+__Fjord circulation induced by melting icebergs (2024)__  
+*The Cryosphere*, doi:10.5194/tc-18-1315-2024  
 [Data link][melt_circ_link1]  
 
 __A turbulence data reduction scheme for autonomous and expendable profiling floats (2023)__  
