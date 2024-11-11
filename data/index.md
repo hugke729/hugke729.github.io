@@ -9,6 +9,10 @@ css: publications
 
 This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
 
+__Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods__  
+To be submitted to *J. Geophys. Res. Oceans.*  
+[Data link][swaths_link]  
+
 __Fjord circulation induced by melting icebergs (2024)__  
 *The Cryosphere*, doi:10.5194/tc-18-1315-2024  
 [Data link][melt_circ_link1]  
@@ -74,4 +78,4 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [melange_link1]: https://doi.org/10.5281/zenodo.5609245
 [melange_link2]: https://drive.google.com/drive/folders/1MnqN4WfcT6LPCtCzreX-GnUGqnmdF75S?usp=sharing
 [melt_circ_link1]: https://doi.org/10.5281/zenodo.8339482
-
+[swaths_link]: https://doi.org/10.5281/zenodo.14064042
