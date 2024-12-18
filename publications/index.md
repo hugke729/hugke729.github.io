@@ -9,6 +9,12 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
+## Pre-print
+
+* [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][swaths]  
+__K. G. Hughes__ and J. N. Moum (2024)  
+Submitted to *J. Geophys. Res. Oceans*
+
 ## Peer-reviewed
 
 * [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][pr21]  
@@ -116,6 +122,7 @@ Master’s Thesis
 * [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
 Honours Dissertation
 
+[swaths]: https://doi.org/10.22541/essoar.173193599.95806946/v1
 [phd]: https://dspace.library.uvic.ca//handle/1828/10367
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
