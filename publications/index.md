@@ -9,13 +9,11 @@ css: publications
 
 [Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
-## Pre-print
+## Peer-reviewed
 
 * [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][swaths]  
-__K. G. Hughes__ and J. N. Moum (2024)  
-Submitted to *J. Geophys. Res. Oceans*
-
-## Peer-reviewed
+__K. G. Hughes__ and J. N. Moum (2025)  
+*J. Geophys. Res. Oceans*, 130, e2024JC022134, doi:10.1029/2024JC022134
 
 * [Relative roles of plume and coastal forcing on exchange flow variability of a glacial fjord][pr21]  
 R. M. Sanchez, F. Straneo, __K. G. Hughes__, P. L. Barbour, and E. L. Shroyer (2024)  
@@ -122,7 +120,7 @@ Master’s Thesis
 * [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
 Honours Dissertation
 
-[swaths]: https://doi.org/10.22541/essoar.173193599.95806946/v1
+[swaths]: https://doi.org/10.1029/2024JC022134
 [phd]: https://dspace.library.uvic.ca//handle/1828/10367
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
