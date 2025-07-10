@@ -11,7 +11,11 @@ css: publications
 
 ## Peer-reviewed
 
-* [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][swaths]  
+* [Predicting ocean turbulence across orders of magnitude using neural networks trained on multiyear observations][pr23]  
+S. Iyer, __K. G. Hughes__ and J. N. Moum (2025)  
+*Artif. Intell. Earth Syst.*, doi:10.1175/AIES-D-24-0093.1
+
+* [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][pr22]  
 __K. G. Hughes__ and J. N. Moum (2025)  
 *J. Geophys. Res. Oceans*, 130, e2024JC022134, doi:10.1029/2024JC022134
 
@@ -120,7 +124,8 @@ Master’s Thesis
 * [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
 Honours Dissertation
 
-[swaths]: https://doi.org/10.1029/2024JC022134
+[pr23]: 	https://doi.org/10.1175/AIES-D-24-0093.1
+[pr22]: https://doi.org/10.1029/2024JC022134
 [phd]: https://dspace.library.uvic.ca//handle/1828/10367
 [oi]: http://orcid.org/0000-0001-5066-3310
 [rg]: https://www.researchgate.net/profile/Kenneth_Hughes2
