@@ -7,7 +7,7 @@ css: publications
 
 ## Publications
 
-[Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ResearchGate][rg] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
+[Google Scholar][gs] &nbsp; &nbsp; &nbsp; &#124; &nbsp; &nbsp; &nbsp; [ORCID][oi]
 
 ## Peer-reviewed
 
