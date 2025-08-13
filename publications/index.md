@@ -13,7 +13,7 @@ css: publications
 
 * [Predicting ocean turbulence across orders of magnitude using neural networks trained on multiyear observations][pr23]  
 S. Iyer, __K. G. Hughes__ and J. N. Moum (2025)  
-*Artif. Intell. Earth Syst.*, doi:10.1175/AIES-D-24-0093.1
+*Artif. Intell. Earth Syst.*, 4, e240093, doi:10.1175/AIES-D-24-0093.1
 
 * [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][pr22]  
 __K. G. Hughes__ and J. N. Moum (2025)  
