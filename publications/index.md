@@ -11,8 +11,12 @@ css: publications
 
 ## Peer-reviewed
 
+* [The seasonality of Greenland iceberg melt and its influences on fjord properties and dynamics][pr24]  
+K. Kinne, R. M. Sanchez, L. Siegelman, F. Straneo, and __K. G. Hughes__  
+*J. Geophys. Res. Oceans*, 130, e2025JC022587, doi: 10.1029/2025JC022587
+
 * [Predicting ocean turbulence across orders of magnitude using neural networks trained on multiyear observations][pr23]  
-S. Iyer, __K. G. Hughes__ and J. N. Moum (2025)  
+S. Iyer, __K. G. Hughes__, and J. N. Moum (2025)  
 *Artif. Intell. Earth Syst.*, 4, e240093, doi:10.1175/AIES-D-24-0093.1
 
 * [Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods][pr22]  
@@ -40,7 +44,7 @@ __K. G. Hughes__, J. N. Moum, and D. L. Rudnick (2023)
 *Ocean Sci.*, 19, 193–207, doi:10.5194/os-19-193-2023
 
 * [Turbulent diapycnal fluxes as a pilot essential ocean variable][pr19]  
-A. Le Boyer, N. Couto, M. H. Alford, H. F. Drake and thirteen others including __K. G. Hughes__ (2023)  
+A. Le Boyer, N. Couto, M. H. Alford, H. F. Drake, and thirteen others including __K. G. Hughes__ (2023)  
 *Front. Mar. Sci.*, 10, 1241023, doi:10.3389/fmars.2023.1241023
 
 * [Flippin' χSOLO, an upper ocean autonomous turbulence profiling float][pr16]  
@@ -124,7 +128,8 @@ Master’s Thesis
 * [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
 Honours Dissertation
 
-[pr23]: 	https://doi.org/10.1175/AIES-D-24-0093.1
+[pr24]: https://doi.org/10.1029/2025JC022587
+[pr23]: https://doi.org/10.1175/AIES-D-24-0093.1
 [pr22]: https://doi.org/10.1029/2024JC022134
 [phd]: https://dspace.library.uvic.ca//handle/1828/10367
 [oi]: http://orcid.org/0000-0001-5066-3310
