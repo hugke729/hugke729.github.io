@@ -12,7 +12,7 @@ css: publications
 ## Peer-reviewed
 
 * [The seasonality of Greenland iceberg melt and its influences on fjord properties and dynamics][pr24]  
-K. Kinne, R. M. Sanchez, L. Siegelman, F. Straneo, and __K. G. Hughes__  
+K. Kinne, R. M. Sanchez, L. Siegelman, F. Straneo, and __K. G. Hughes__ (2025)  
 *J. Geophys. Res. Oceans*, 130, e2025JC022587, doi: 10.1029/2025JC022587
 
 * [Predicting ocean turbulence across orders of magnitude using neural networks trained on multiyear observations][pr23]  
