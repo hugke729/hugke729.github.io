@@ -7,7 +7,10 @@ css: publications
 
 ## Data
 
-This page includes links to datasets associated with some papers I have published. For each paper, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
+This page includes links to datasets associated with some papers I have published. For some papers, a secondary link may be provided for redundancy, but the dataset at the link is identical. Please let me know if any links appear broken.
+
+__Horizontal decorrelation scales of turbulent dissipation in the ocean thermocline (submitted)__  
+[Data link][decorrelation_link]  
 
 __Imaging thermocline microstructure in 2D with swaths traced by wave-pumped χpods (2025)__  
 *J. Geophys. Res. Oceans.*, doi:10.1029/2024JC022134  
@@ -79,3 +82,4 @@ __Water mass modification and mixing rates in a 1/12° simulation of the Canadia
 [melange_link2]: https://drive.google.com/drive/folders/1MnqN4WfcT6LPCtCzreX-GnUGqnmdF75S?usp=sharing
 [melt_circ_link1]: https://doi.org/10.5281/zenodo.8339482
 [swaths_link]: https://doi.org/10.5281/zenodo.14064042
+[decorrelation_link]: https://doi.org/10.5281/zenodo.18344369
