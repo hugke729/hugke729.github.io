@@ -11,6 +11,10 @@ css: publications
 
 ## Peer-reviewed
 
+* [Horizontal decorrelation scales of turbulent dissipation in the ocean thermocline ][pr25]  
+__K. G. Hughes__ and J. N. Moum (2026)  
+*J. Phys. Oceanogr.* doi:10.1175/JPO-D-26-0024.1
+
 * [The seasonality of Greenland iceberg melt and its influences on fjord properties and dynamics][pr24]  
 K. Kinne, R. M. Sanchez, L. Siegelman, F. Straneo, and __K. G. Hughes__ (2025)  
 *J. Geophys. Res. Oceans*, 130, e2025JC022587, doi: 10.1029/2025JC022587
@@ -128,6 +132,7 @@ Master’s Thesis
 * [On the Rate of Refreezing in a Bore Hole in an Ice Shelf][ht]  
 Honours Dissertation
 
+[pr25]: https://doi.org/10.1175/JPO-D-26-0024.1
 [pr24]: https://doi.org/10.1029/2025JC022587
 [pr23]: https://doi.org/10.1175/AIES-D-24-0093.1
 [pr22]: https://doi.org/10.1029/2024JC022134
